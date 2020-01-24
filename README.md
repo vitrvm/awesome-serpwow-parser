@@ -1,2 +1,2 @@
-# awesome-serpwow
+# awesome-serpwow-parser
 Serpwow Python Parser 
